@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ![banner](https://github.com/primercuervo/primercuervo/raw/master/img/banner.gif)
 # Nicolas Cuervo - @primercuervo
-Hi y'all! I'm Nico and I'm currently an _Algorithm Developer for Autonomous Driving_ at ZF Friedrichshafen.
+Hi y'all! I'm Nico and I'm currently an _Embedded Software Developer for 5G Networks_ at Nokia.
 
 :satellite: I'm passionate about **wireless communications**, **Software Defined Radio**, and **clean coding**. :satellite:
 
