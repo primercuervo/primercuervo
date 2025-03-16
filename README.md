@@ -34,10 +34,8 @@ Although I devote my affection to wireless communications, I have interests all 
 
 ## :coffee: Wanna chat? 💬
 Feel free to ping me at:
-- **Twitter:** [@primer_cuervo](https://twitter.com/primer_cuervo) :bird:
 - **LinkedIn:** [cuervonicolas](https://www.linkedin.com/in/cuervonicolas/) :office:
 - **Email:** [cuervonicolas@gmail.com](mailto:cuervonicolas@gmail.com) :mailbox_with_mail:
-- **Race me on Zwift:** :biking_man: [Nicolas Cuervo](https://www.zwift.com/athlete/bcec9b7f-10ab-4b93-9b55-eab157a88873) :colombia: :mountain_bicyclist:
 - **Strava:** [Nicolas Cuervo](https://www.strava.com/athletes/31247088) :runner:
 
 I also lurk quite often in [GNU Radio's chat room](https://chat.gnuradio.org) :satellite:
